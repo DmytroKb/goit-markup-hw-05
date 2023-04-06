@@ -425,7 +425,7 @@ body {
   padding-bottom: 40px;
   padding-left: 32px;
 }
-.portfolio-list-item:hover .cover-text {
+.portfolio-link:hover .cover-text {
   transform: translatey(0%);
 }
 
